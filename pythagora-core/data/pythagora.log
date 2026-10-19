@@ -1,0 +1,12 @@
+2026-10-19T08:45:47.846Z INFO Is remote: false
+2026-10-19T08:45:47.847Z INFO Starting Local. Installation path: c:\Users\Ramesh\Desktop\iris-classifier-cicd
+2026-10-19T08:45:47.848Z INFO [MainProvider] Creating new MainProvider instance...
+2026-10-19T08:45:47.849Z INFO [TabsManager] Code view listener set up at initialization
+2026-10-19T08:45:47.850Z INFO Installation path exists: c:\Users\Ramesh\Desktop\iris-classifier-cicd
+2026-10-19T08:45:47.851Z INFO Initializing database with URL: file:c:\Users\Ramesh\Desktop\iris-classifier-cicd\pythagora-core\data\database\pythagora.db
+2026-10-19T08:45:47.858Z INFO New database detected, running full prisma setup...
+2026-10-19T08:45:47.862Z INFO [c:\Users\Ramesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19] Project root:
+2026-10-19T08:45:47.863Z INFO [c:\Users\Ramesh\.vscode\extensions\pythagoratechnologies.pythagora-vs-code-2.6.19\prisma\schema.prisma] Schema path:
+2026-10-19T08:45:47.864Z INFO [file:c:\Users\Ramesh\Desktop\iris-classifier-cicd\pythagora-core\data\database\pythagora.db] Database URL:
+2026-10-19T08:45:47.866Z INFO [true] Schema exists:
+2026-10-19T08:45:47.867Z INFO Running prisma generate first...
